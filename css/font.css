@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anonymous+Pro&family=Source+Code+Pro&display=swap");
+
+@font-face {
+  font-family: "D2Coding";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_three@1.0/D2Coding.woff")
+    format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.firacode {
+  font-family: "Fira Code";
+}
+.d2coding {
+  font-family: "D2Coding";
+}
+.hack {
+  font-family: "Hack";
+}
+.jetbrainsmono {
+  font-family: "JetBrains Mono";
+}
+.ubuntumono {
+  font-family: "Ubuntu Mono";
+}
+.ibmplexmono {
+  font-family: "IBM Plex Mono";
+}
+.sourcecodepro {
+  font-family: "Source Code Pro";
+}
+.anonymouspro {
+  font-family: "Anonymous Pro";
+}
+/* .fontName {
+  font-family: "Anonymous Pro";
+} */
